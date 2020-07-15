@@ -125,3 +125,7 @@ a{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+.profile-icon{
+  margin-left: 30px;
+  margin-right: 30px;
+}
